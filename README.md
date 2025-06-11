@@ -1,4 +1,4 @@
-## setup:
+## to install:
 help me to see now u are seeing (my letter. hi, there) just see above this line that area had a letter wrote ```v wide chatgpt.js``` then click it so u can enter in to copy then past it into ur userscript extension(monkeys, like tampermonkey).
 
 
