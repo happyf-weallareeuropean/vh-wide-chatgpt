@@ -1,5 +1,5 @@
 ## setup:
-help me to see now u are seeing (my letter. hi, there) just see above this line had file call 'v wide chatgpt.js then click it so u can enter in to copy then past it into ur userscript extension(monkeys, like tampermonkey).
+help me to see now u are seeing (my letter. hi, there) just see above this line area had file call 'v wide chatgpt.js then click it so u can enter in to copy then past it into ur userscript extension(monkeys, like tampermonkey).
 
 
 ## visual preview  
