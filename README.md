@@ -1,5 +1,5 @@
 ## setup:
-did u see the above had file call 'v wide chatgpt.js' click it so u can enter in to copy then past it into ur userscript extension(monkeys, like tampermonkey).
+did u see the above had file call 'v wide chatgpt.js', just around README.md isnot? then click it so u can enter in to copy then past it into ur userscript extension(monkeys, like tampermonkey).
 
 ## visual preview  
 withour v+h wide 
