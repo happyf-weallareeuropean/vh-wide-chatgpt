@@ -6,7 +6,7 @@
 // @author       felixy happyfceleste & Johannes Thyroff(https://github.com/JThyroff/WideGPT) 
 // @match        https://chatgpt.com/*
 // @grant        none
-// @run-at       document-start
+// @run-at       document-idle
 // ==/UserScript==
 
 /* ==== CSS TRIMS ==== */
